@@ -144,6 +144,7 @@ UPROGS=\
 	$U/_usertests\
 	$U/_grind\
 	$U/_zombie\
+	$U/_pingpong\
 	$U/_logstress\
 	$U/_forphan\
 	$U/_dorphan\
